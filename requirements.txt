@@ -30,7 +30,7 @@ ipykernel==5.3.0
 
 ipython-genutils==0.2.0
 itsdangerous==1.1.0
-jedi @ file:///C:/ci/jedi_1592841982010/work
+
 Jinja2==2.11.2
 
 jsonschema==3.2.0
